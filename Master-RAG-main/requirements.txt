@@ -1,0 +1,12 @@
+bs4
+langchain_core
+langchain
+langchain_community
+langsmith==0.1.93
+langchain_google_genai
+langchain_openai
+langchain_text_splitters
+langchain_groq
+sentence-transformers
+FAISS-cpu==1.7.4
+langchainhub
