@@ -1,3 +1,4 @@
+python-dotenv
 bs4
 langchain_core
 langchain
@@ -10,3 +11,7 @@ langchain_groq
 sentence-transformers
 FAISS-cpu==1.7.4
 langchainhub
+youtube-transcript-api
+pytube
+llama_index
+chromadb
