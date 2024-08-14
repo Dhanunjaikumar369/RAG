@@ -21,3 +21,4 @@ lark
 langgraph
 pyppeteer
 graphviz
+agentops
