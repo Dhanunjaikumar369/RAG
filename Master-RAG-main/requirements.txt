@@ -22,3 +22,4 @@ langgraph
 pyppeteer
 graphviz
 agentops
+openpyxl

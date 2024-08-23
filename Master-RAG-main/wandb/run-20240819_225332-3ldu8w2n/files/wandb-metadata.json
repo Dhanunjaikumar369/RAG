@@ -1,0 +1,48 @@
+{
+    "os": "macOS-12.6.3-arm64-arm-64bit",
+    "python": "3.10.2",
+    "heartbeatAt": "2024-08-19T17:23:42.773652",
+    "startedAt": "2024-08-19T17:23:32.478224",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Dhanunjaikumar369/RAG.git",
+        "commit": "684424abfd9ac4bd0c51164c465bdf977cca0a4d"
+    },
+    "email": "Dhanunjai.kumar369@gmail.com",
+    "root": "/Users/dhanunjaikumar/Downloads/git_test/RAG",
+    "host": "Dhanunjais-MacBook-Air.local",
+    "username": "dhanunjaikumar",
+    "executable": "/Users/dhanunjaikumar/Downloads/git_test/RAG/Master-RAG-main/.venv/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3204,
+        "min": 600,
+        "max": 3204
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3204,
+            "min": 600,
+            "max": 3204
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 14.360218048095703
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
