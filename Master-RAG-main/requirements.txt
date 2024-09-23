@@ -23,3 +23,6 @@ pyppeteer
 graphviz
 agentops
 openpyxl
+datasets
+peft
+trl
